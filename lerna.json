@@ -7,5 +7,10 @@
       "hoist": true
     }
   },
-  "version": "independent"
+  "version": {
+    "conventionalCommits": true
+  },
+  "ignoreChanges": [
+    "**/*.md"
+  ]
 }
