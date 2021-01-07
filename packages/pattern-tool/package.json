@@ -1,0 +1,17 @@
+{
+  "name": "pattern-tool",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "EasonChang <s8710606@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://192.168.1.15:4873/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+  }
+}
