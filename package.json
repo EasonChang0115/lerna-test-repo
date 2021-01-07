@@ -5,6 +5,9 @@
     "cz-lerna-changelog": "^2.0.3",
     "lerna": "^3.22.1"
   },
+  "scripts": {
+    "lerna-publish": "lerna publish --message 'build: publish'"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-lerna-changelog"
