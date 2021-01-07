@@ -1,0 +1,19 @@
+39 error Error: Command failed: git commit -F /private/var/folders/zf/y9w8j0m551l6ss36y9_xvn4m0000gn/T/2e713760-5394-4f2d-8f45-74267c0b1912/lerna-commit.txt
+39 error husky > commit-msg (node v12.15.0)
+39 error ⧗   input: Publish
+39 error
+39 error  - pattern-bottom-app@0.1.1-alpha.0
+39 error  - pattern-caculate@1.0.1
+39 error  - pattern-tool@1.0.1
+39 error  - pattern-ui@1.0.1
+39 error ✖   subject may not be empty [subject-empty]
+39 error ✖   type may not be empty [type-empty]
+39 error
+39 error ✖   found 2 problems, 0 warnings
+39 error ⓘ   Get help: https://github.com/conventional-changelog/commitlint/#what-is-commitlint
+39 error
+39 error husky > commit-msg hook failed (add --no-verify to bypass)
+39 error
+39 error     at makeError (/Users/goodjason/javascript/lerna-test/lerna-usage/node_modules/execa/index.js:174:9)
+39 error     at /Users/goodjason/javascript/lerna-test/lerna-usage/node_modules/execa/index.js:278:16
+39 error     at processTicksAndRejections (internal/process/task_queues.js:94:5)

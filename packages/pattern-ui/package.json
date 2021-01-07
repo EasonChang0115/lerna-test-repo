@@ -1,7 +1,7 @@
 {
   "name": "pattern-ui",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "EasonChang <s8710606@gmail.com>",
   "homepage": "",
@@ -11,6 +11,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   },
   "dependencies": {
     "core-js": "^3.6.5",
